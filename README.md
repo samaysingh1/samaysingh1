@@ -12,7 +12,9 @@
 
 ## 💬 About Me
 
-- 🎓 BCA Student passionate about **software development**
+- 👋 B.Tech student at IIT Roorkee from Uttarakhand. 
+- 💻 I love coding, building cool stuff, and learning new tech. 
+- 🌱 Exploring Web Dev & Machine Learning.
 - 💻 Strong focus on **fundamentals before frameworks**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🛠️ Learning backend concepts step-by-step
